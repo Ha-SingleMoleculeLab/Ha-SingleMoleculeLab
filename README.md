@@ -1,6 +1,6 @@
 - Hi, I’m @Ha-SingleMoleculeLab
 - Our group leader is Prof. Taekjip Ha
-- We are lab at Johns Hopkins University
+- We are lab located at the Johns Hopkins University
 - Our mission is pushing the limits of single-molecule detection methods to study complex biological systems
 - With this GitHub account, we would love to share our Data analysis codes and our love of single-molecule methods.
 
